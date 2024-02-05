@@ -2,9 +2,8 @@ import matplotlib.pyplot as plt
 from random import randint
 
 # CONSTANTS
-LENGTH_OF_RANDLIST = 10
+LENGTH_OF_RANDLIST = 24
 RAND_RANGE = 30
-X_AXIS_LEN = 20
 
 def gen_randomlist(num):
     randlist = []
